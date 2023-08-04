@@ -1,0 +1,11 @@
+Receipt
+Fire truck:105.0
+Teddy bear:30.0
+Doll:15.0
+
+Total value = 150.0 £
+
+Total value (after discount) = 135.0 £
+
+Total value + transport = 140.0 £
+
